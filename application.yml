@@ -10,6 +10,3 @@ spring:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
   application:
     name: profile
-  profiles:
-    active:
-    - 'prod'
