@@ -1,2 +1,5 @@
 server:
   port: 9191
+jpa:
+    hibernate:
+      ddl-auto: create
