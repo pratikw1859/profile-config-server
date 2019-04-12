@@ -1,5 +1,7 @@
 server:
   port: 9191
-jpa:
+spring:  
+  jpa:
+    show-sql: true
     hibernate:
       ddl-auto: create
